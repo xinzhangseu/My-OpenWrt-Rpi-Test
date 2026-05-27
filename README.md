@@ -16,7 +16,7 @@
 
 ## 项目介绍
 
-1. 提供适配于 树莓派全系、Rockchip 平台、ipq40xx 平台以及 x86 平台设备的 OpenWrt 固件
+1. 提供适配于 x86-64 平台设备的 OpenWrt 固件
 2. 包含丰富的 OpenWrt 原版 LuCI 插件及社区 LuCI 插件
 3. 固件跟随源码更新自动编译，确保获得最新体验
 4. 预配置本地 kmod 软件源，远离 kmod 依赖冲突
@@ -55,4 +55,3 @@
 |                                                       | [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) | [immortalwrt/opde](https://github.com/immortalwrt/opde)      | [GitRML/delete-workflow-runs](https://github.com/GitRML/delete-workflow-runs) | [BackBlaze](https://www.backblaze.com/)  |
 |                                                       |                                                              | [aparcar/openwrt](https://github.com/aparcar/openwrt)        | [easingthemes/ssh-deploy](https://github.com/easingthemes/ssh-deploy) | [HostHatch](https://hosthatch.com/)      |
 |                                                       |                                                              | [klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt) | [easimon/maximize-build-space](https://github.com/easimon/maximize-build-space) |                                          |
-
